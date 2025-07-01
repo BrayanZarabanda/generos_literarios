@@ -14,10 +14,14 @@ Además, se desarrolló un CRUD completo para cada entidad (Añadir, editar, eli
 
 Autes - Priuncipal: Permite crear, editar y elimianr autores.
 
+    - ![alt text]({D4843DCC-7795-4409-A6A1-67EA83604168}.png)
+
 Libros - (Relación 1:N): Cada Autor puede tener múltiples libros. 
+    - ![alt text]({751487E9-FAA7-43F4-AA48-899FC427F37C}.png)
 
 Biografías - (Relación 1:1): Cada autor tiene una sola biografía. 
-
+    - ![alt text]({FD365F12-C709-473C-ADC0-5478304DA747}.png)
 Géneros literarios - (Relación N:M) Un género puede tener muchos autores. 
     Gestión y asignación de géneros a autores. 
+    - ![alt text]({BC9382DC-60A6-44B6-866F-7275DA0892F1}.png)
 
